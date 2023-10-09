@@ -1,5 +1,6 @@
 import axios from 'axios'
 const API_URL= 'http://192.168.0.19:2813/ch'
+
 export const registrarUsuario = async (formData, ine) => {
 
     return axios({
