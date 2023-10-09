@@ -1,8 +1,8 @@
 import axios from 'axios'
 
-const API_URL= 'http://clenhometm.trafficmanager.net:2813/ch/publicacion'
-const API_URL_SERVICIO= 'http://clenhometm.trafficmanager.net:2813/ch/servicio'
-const API_URL_PROPIEDAD= 'http://clenhometm.trafficmanager.net:2813/ch/propiedad'
+const API_URL= 'http://192.168.0.19:2813/ch/publicacion'
+const API_URL_SERVICIO= 'http://192.168.0.19:2813/ch/servicio'
+const API_URL_PROPIEDAD= 'http://192.168.0.19:2813/ch/propiedad'
 
 
 // FUNCIÓN PARA OBTENER LAS PUBLICACIONES DE UN CLIENTE

@@ -33,7 +33,7 @@
     "modules": "^0.4.0",
     "node": "^20.5.0",
     "react": "18.2.0",
-    "react-native": "0.71.8",
+    "react-native": "0.71.13",
     "react-native-gesture-handler": "~2.9.0",
     "react-native-image-picker": "^4.8.5",
     "react-native-keyboard-aware-scroll-view": "^0.9.5",

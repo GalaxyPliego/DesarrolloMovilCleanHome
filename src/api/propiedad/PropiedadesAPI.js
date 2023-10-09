@@ -1,6 +1,6 @@
 import axios from 'axios'
 //import {API_URL} from '@env'
-const API_URL= 'http://clenhometm.trafficmanager.net:2813/ch'
+const API_URL= 'http://192.168.0.19:2813/ch'
 export const fetchEstados = async (token) => {
   try {
     const response = await axios.get(API_URL+"/catalogo/getEstados", {

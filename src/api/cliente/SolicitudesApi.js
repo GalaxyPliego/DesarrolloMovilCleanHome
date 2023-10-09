@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const API_URL= `http://clenhometm.trafficmanager.net:2813/ch/postulacion`
+const API_URL= `http://192.168.0.19:2813/ch/postulacion`
 
 // FUNCIÓN PARA OBTENER LAS SOLICITUDES DE UN CLIENTE
 export const getSolicitudes = async (idCliente, token) => {

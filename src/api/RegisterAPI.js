@@ -1,6 +1,5 @@
 import axios from 'axios'
-const API_URL= 'http://clenhometm.trafficmanager.net:2813/ch'
-//const API_URL= 'http://192.168.0.109:2813/ch'
+const API_URL= 'http://192.168.0.19:2813/ch'
 export const registrarUsuario = async (formData, ine) => {
 
     return axios({
